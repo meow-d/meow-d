@@ -1,16 +1,23 @@
-### Hi there 👋
+# hi. welcome to my profile.
+![](https://komarev.com/ghpvc/?username=meow-d&color=ff69b4&style=flat-square)
 
-<!--
-**meow-d/meow-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## skills
+- python
+- html and css
+- javascript
+- linux command line
 
-Here are some ideas to get you started:
+## in this repo
+- [dotfiles](https://github.com/meow-d/dotfiles)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### projects i made for myself
+- https://github.com/meow-d/cisco-IOS-command-generator
+- https://github.com/meow-d/eta-calculator
+
+### misc
+- https://github.com/meow-d/firefox-simple-blur
+- https://github.com/meow-d/selectMoreLines
+
+### schoolwork
+- https://github.com/meow-d/inventory
+- https://github.com/meow-d/pwp-module

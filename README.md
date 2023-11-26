@@ -6,23 +6,19 @@
 ![](https://komarev.com/ghpvc/?username=meow-d&color=ff69b4&style=for-the-badge)
 
 ## skills
-<table><tr><td valign="top" width="50%">
+<table width=50%><tr><td valign="top" width="50%">
 <div align="center">
+<img width="441" height="1">
 
 ### intermediate
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,linux&perline=3)](https://skillicons.dev)
 </div>
 </td><td valign="top" width="50%">
 <div align="center">
+<img width="441" height="1">
 
 ### basic
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,godot&perline=3)](https://skillicons.dev)
 </div>
 </td></tr></table>
 

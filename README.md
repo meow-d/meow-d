@@ -8,16 +8,16 @@
 ## skills
 <table width=50%><tr><td valign="top" width="50%">
 <div align="center">
-<img width="441" height="1">
 
 ### intermediate
+<img width="441" height="1">
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,git,linux&perline=3)](https://skillicons.dev)
 </div>
 </td><td valign="top" width="50%">
 <div align="center">
-<img width="441" height="1">
 
 ### basic
+<img width="441" height="1">
 [![My Skills](https://skillicons.dev/icons?i=javascript,php,godot&perline=3)](https://skillicons.dev)
 </div>
 </td></tr></table>

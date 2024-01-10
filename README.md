@@ -39,6 +39,7 @@
 - [web development assignment](https://github.com/farm-info/farm.info)
 - [python assignment](https://github.com/meow-d/inventory)
 - [python module exercises](https://github.com/meow-d/pwp-module)
+- [java module exercises](https://github.com/meow-d/java-programming-module)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meow-d/meow-d/output/github-contribution-grid-snake-dark.svg">

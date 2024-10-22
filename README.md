@@ -1,4 +1,8 @@
 # hi. welcome to my profile.
+if you're from somewhere else: i don't really have serious projects, mostly random scripts and school assignments here
+
+if you're an employer: please pretend i'm really really good at coding thank you
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meow-d&theme=ayu_mirage) 
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
